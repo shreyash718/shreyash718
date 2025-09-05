@@ -22,8 +22,6 @@ class Shreyash : public Life {
   public:
     void code() {
       while(alive) {
-        eat();
-        sleep();
         code();
         breakLimits();
       }
