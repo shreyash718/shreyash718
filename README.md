@@ -5,8 +5,7 @@
 **🎓 CS Student &nbsp;·&nbsp; 🔧 Backend Developer &nbsp;·&nbsp; 🤖 Aspiring AI Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyashmishra700)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/bheekaru/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/shreyash718)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/shreyashmishra700)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shreyashmishra700@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shreyash718&color=58A6FF&style=flat-square&label=Profile+Views)
