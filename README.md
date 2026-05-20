@@ -11,8 +11,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shreyash718&color=58A6FF&style=flat-square&label=Profile+Views)
 
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -29,17 +27,14 @@
 
 ## 🧠 LeetCode Stats
 
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/bheekaru?theme=dark&font=Karma" />
-
-<img src="https://leetcard.jacoblin.cool/bheekaru?theme=dark&font=Karma&ext=contest" />
-
-</div>
+<table>
+  <tr>
+    <td><img src="https://leetcard.jacoblin.cool/bheekaru?theme=dark&font=Karma&width=400&height=200" /></td>
+    <td><img src="https://leetcard.jacoblin.cool/bheekaru?theme=dark&font=Karma&ext=contest&width=400&height=200" /></td>
+  </tr>
+</table>
 
 ---
-
-<div align="center">
 
 *"The more you learn, the more you realize you know nothing." – Socrates*
 
