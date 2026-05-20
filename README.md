@@ -27,6 +27,5 @@
 
 ---
 
-*"The more you learn, the more you realize you know nothing." – Socrates*
 
 </div>
