@@ -4,7 +4,7 @@
 
 ### 🎓 CS Student · 🔧 Backend Developer · 🤖 Aspiring AI Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Developer+🔧;AI+Engineer+in+the+Making+🤖;Building+with+LangChain+%26+LLMs+🦜;Open+to+opportunities!" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Developer+🔧;AI+Engineer+in+the+Making+🤖;Building+with+LangChain+%26+LLMs+🦜;Open+to+opportunities!)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,9 +24,9 @@
 
 <div align="center">
 
-![Shreyash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyash718&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Shreyash's GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=shreyash718&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash718&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=shreyash718&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=shreyash718&theme=tokyonight&hide_border=true)
 
