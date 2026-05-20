@@ -24,7 +24,7 @@
 
 ## 🧠 LeetCode Stats
 
-<img src="https://leetcard.jacoblin.cool/bheekaru?theme=dark&font=Karma&ext=contest&width=500" />
+<img src="https://leetcard.jacoblin.cool/bheekaru?theme=dark&font=Karma&ext=contest&width=250" />
 
 ---
 
